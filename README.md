@@ -1,4 +1,4 @@
-Here’s a **professional GitHub project description (README)** you can use for your repository **[Capstone‑2 GitHub Repository](https://github.com/HanzalaParacha763/Capstone-2)**. It assumes this project is a **React + Vite web application** (based on the files present) and is ready to be customized with your actual project specifics:
+
 
 ---
 
